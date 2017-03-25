@@ -13,3 +13,9 @@ hs_err_pid*
 
 src/main/resources/static/css/formValidation.min.css
 src/main/resources/static/js/formValidation.min.js
+
+devopsbuddy.iml
+.idea
+.mvn
+/.idea/
+/.mvn/
