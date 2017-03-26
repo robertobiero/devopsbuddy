@@ -19,3 +19,4 @@ devopsbuddy.iml
 .mvn
 /.idea/
 /.mvn/
+/target/
