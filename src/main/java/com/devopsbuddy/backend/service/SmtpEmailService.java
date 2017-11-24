@@ -12,7 +12,7 @@ import org.springframework.mail.SimpleMailMessage;
  * Created by tedonema on 22/03/2016.
  */
 public class SmtpEmailService extends AbstractEmailService {
-
+    /** test */
     /** The application logger */
     private static final Logger LOG = LoggerFactory.getLogger(SmtpEmailService.class);
 

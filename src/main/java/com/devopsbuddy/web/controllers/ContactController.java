@@ -16,8 +16,12 @@ import org.springframework.web.bind.annotation.RequestMethod;
  */
 @Controller
 public class ContactController {
+	
+	
+	/** application */
 
     /** The application logger */
+	
     private static final Logger LOG = LoggerFactory.getLogger(ContactController.class);
 
     /** The key which identifies the feedback payload in the Model. */

@@ -47,7 +47,7 @@ public class DevopsbuddyApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 
-		LOG.info("Creating Basic and Pro plans in the database...");
+		LOG.info("Creating Basic and Pro plans in the new and improved database...");
 		planService.createPlan(PlansEnum.BASIC.getId());
 		planService.createPlan(PlansEnum.PRO.getId());
 
